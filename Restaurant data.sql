@@ -77,6 +77,8 @@ FROM (
 
 GROUP BY Time_period
 ORDER BY Total_orders DESC
+ -- Use the code as is to see performance of all times of the day.
+ -- To see just the one time wityh most oprders, execute the line below.
 --LIMIT 1
 
 --What is the total revenue generated from orders on a specific date?
