@@ -98,5 +98,6 @@ SELECT FORMAT_DATE('%B', order_date) AS month,SUM(price) AS Total_revenue
      GROUP BY month
 
 Conclusion
-This project provides a comprehensive analysis of restaurant data, helping to uncover valuable insights about menu performance, customer preferences, and peak ordering times. These insights can aid in making informed business decisions to enhance restaurant operations and customer satisfaction.
+This project provides a comprehensive analysis of restaurant data, helping to uncover valuable insights about menu performance, customer preferences, and peak ordering times. 
+These insights can aid in making informed business decisions to enhance restaurant operations and customer satisfaction.
 
